@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57d9b3a352b8d8e41b3ebdb34f927b03, type: 3}
+  m_Name: Caracters
+  m_EditorClassIdentifier: 
+  _sheet:
+  - _name: B-Boy
+    spriteRenderer: {fileID: 1378897118049015445, guid: a7b9a954a414f834490b873424d09900,
+      type: 3}
+    sprite: {fileID: -6205745050826528997, guid: bd614f070089cec4dafa5ce9d82ba42f,
+      type: 3}
+    fakeSprite: {fileID: -4120196671801777538, guid: bd614f070089cec4dafa5ce9d82ba42f,
+      type: 3}
+    nationality: 0
+    caraselif: "\u8A70\u3081\u308B\u3088\u30A2\u30FC\u30A4"
+  - _name: Yankee
+    spriteRenderer: {fileID: 2423393185638835945, guid: 50bf120a1de021541b500b4252b5df99,
+      type: 3}
+    sprite: {fileID: -3946854339820824795, guid: e16a08027b4767d488c22fe9ccb170fc,
+      type: 3}
+    fakeSprite: {fileID: -7436533053778201663, guid: e16a08027b4767d488c22fe9ccb170fc,
+      type: 3}
+    nationality: 0
+    caraselif: "\u3084\u304B\u307E\u3057\u3084"
+  - _name: GAL
+    spriteRenderer: {fileID: 3551219065614687475, guid: 58f638a9a35bdee438033c02c5200c30,
+      type: 3}
+    sprite: {fileID: -6378239801321499009, guid: e13af2d84cb22844a906047df3a521af,
+      type: 3}
+    fakeSprite: {fileID: -1687541336165283371, guid: e13af2d84cb22844a906047df3a521af,
+      type: 3}
+    nationality: 0
+    caraselif: "\u3042\u3063\u3057VIP"
+  - _name: Kirin
+    spriteRenderer: {fileID: 7877542773879054548, guid: 6421c49631fa10641a1333d55056ab5c,
+      type: 3}
+    sprite: {fileID: 1050602032043174014, guid: 73bdab1f4b960f1488e00d4f7121d931,
+      type: 3}
+    fakeSprite: {fileID: 1050602032043174014, guid: 73bdab1f4b960f1488e00d4f7121d931,
+      type: 3}
+    nationality: 0
+    caraselif: '#%&%''%''%'
+  - _name: Girl
+    spriteRenderer: {fileID: 4298199122674105628, guid: f416cc9595ee5e74b83bad5174eebf8a,
+      type: 3}
+    sprite: {fileID: 21300000, guid: b8da26039d3fd444c847f3d1c494a814, type: 3}
+    fakeSprite: {fileID: 21300000, guid: b8da26039d3fd444c847f3d1c494a814, type: 3}
+    nationality: 0
+    caraselif: "\u304A\u5144\u3055\u3093\u304B\u3063\u3053\u3044\u3044"
+  - _name: Yuppi
+    spriteRenderer: {fileID: 7351335103181345295, guid: 96bfb3caf7c095d4bab8a571c36d0319,
+      type: 3}
+    sprite: {fileID: 5589480377892680176, guid: 16e77283684b8934588692b5a598d13d,
+      type: 3}
+    fakeSprite: {fileID: 2439405683268011288, guid: 16e77283684b8934588692b5a598d13d,
+      type: 3}
+    nationality: 0
+    caraselif: "\u306A\u3093\u3067\u3088"
